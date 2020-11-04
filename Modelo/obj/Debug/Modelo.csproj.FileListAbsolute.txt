@@ -1,0 +1,7 @@
+C:\Users\David Santiago\source\repos\Concesionariodsm\Modelo\bin\Debug\Modelo.exe.config
+C:\Users\David Santiago\source\repos\Concesionariodsm\Modelo\bin\Debug\Modelo.exe
+C:\Users\David Santiago\source\repos\Concesionariodsm\Modelo\bin\Debug\Modelo.pdb
+C:\Users\David Santiago\source\repos\Concesionariodsm\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\David Santiago\source\repos\Concesionariodsm\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\David Santiago\source\repos\Concesionariodsm\Modelo\obj\Debug\Modelo.exe
+C:\Users\David Santiago\source\repos\Concesionariodsm\Modelo\obj\Debug\Modelo.pdb
